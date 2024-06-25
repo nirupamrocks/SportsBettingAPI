@@ -1,0 +1,6 @@
+@SportsBettingAPI_HostAddress = http://localhost:5161
+
+GET {{SportsBettingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
